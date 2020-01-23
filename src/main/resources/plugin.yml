@@ -1,0 +1,4 @@
+name: Core
+version: ${version}
+author: PvP Land Development Team
+main: land.pvp.core.CorePlugin
